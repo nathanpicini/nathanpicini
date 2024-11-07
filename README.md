@@ -21,25 +21,25 @@
 
 
 
-Mar de Cálculos 									         							(Dez 2023 - Fev 2024)
+<b>Mar de Cálculos</b> 									         							(Dez 2023 - Fev 2024)
 
 ●	Mar de Cálculos foi desenvolvido como um aplicativo do gênero “serious game” voltado para o ensino de matemática, com uma temática voltada para a época dos piratas. Os frameworks usados nesse projeto foram: SwitfUI, SpriteKit.
 
 
 
-Stax – Simplificando as suas finanças							          							(Mar 2024 - Abr 2024)
+<b>Stax – Simplificando as suas finanças</b>							          						(Mar 2024 - Abr 2024)
 	          	              
 ●	Stax é um aplicativo de finanças desenvolvido com o objetivo de ajudar microempreendedores individuais (MEI’s) .Os frameworks usados nesse projeto foram: SwitfUI. 
 
 
 
-Flip Map									              	          						(Mai 2024 - Jun 2024)
+<b>Flip Map</b>									              	          						(Mai 2024 - Jun 2024)
 
 ●	Flip Map foi um aplicativo desenvolvido de forma individual, onde tivemos a liberdade de escolher a temática para o nosso app. Pensando nisso, eu resolvi fazer um app voltado para o skate, haja visto que é um esporte que eu pratico. Flip Map mostra aos usuários diversas pistas, praças e picos para praticar o esporte.
 
 
 
-Recaps: Memories Unlocked								          							(Jun 2024 – Nov 2024)
+<b>Recaps: Memories Unlocked</b>								          						(Jun 2024 – Nov 2024)
 
 ●	Recaps é um aplicativo 
 
