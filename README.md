@@ -20,9 +20,11 @@
 ●	Tabsy foi um aplicativo desenvolvido com o intuito de ensinar o usuário a ler tablaturas, e acompanha métodos de ensino para facilitar o aprendizado, com o foco em pessoas com transtornos cognitivos e com dificuldade do aprendizado! Os frameworks usados nesse projeto foram: SwiftUI.
 
 
+
 Mar de Cálculos 									         							(Dez 2023 - Fev 2024)
 
 ●	Mar de Cálculos foi desenvolvido como um aplicativo do gênero “serious game” voltado para o ensino de matemática, com uma temática voltada para a época dos piratas. Os frameworks usados nesse projeto foram: SwitfUI, SpriteKit.
+
 
 
 Stax – Simplificando as suas finanças							          							(Mar 2024 - Abr 2024)
@@ -30,9 +32,11 @@ Stax – Simplificando as suas finanças							          							(Mar 2024 - Abr 
 ●	Stax é um aplicativo de finanças desenvolvido com o objetivo de ajudar microempreendedores individuais (MEI’s) .Os frameworks usados nesse projeto foram: SwitfUI. 
 
 
+
 Flip Map									              	          						(Mai 2024 - Jun 2024)
 
 ●	Flip Map foi um aplicativo desenvolvido de forma individual, onde tivemos a liberdade de escolher a temática para o nosso app. Pensando nisso, eu resolvi fazer um app voltado para o skate, haja visto que é um esporte que eu pratico. Flip Map mostra aos usuários diversas pistas, praças e picos para praticar o esporte.
+
 
 
 Recaps: Memories Unlocked								          							(Jun 2024 – Nov 2024)
