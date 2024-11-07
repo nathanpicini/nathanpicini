@@ -15,9 +15,7 @@
 
 ## Apps Developed
 
-<b>ReCaps</b>
-
-Tabsy – Aprenda Tablatura                                                                                                                        Ago 2023 - Out 2023
+<b>Tabsy – Aprenda Tablatura</b>                                                                                                                        Ago 2023 - Out 2023
 
 ●	Tabsy foi um aplicativo desenvolvido com o intuito de ensinar o usuário a ler tablaturas, e acompanha métodos de ensino para facilitar o aprendizado, com o foco em pessoas com transtornos cognitivos e com dificuldade do aprendizado! Os frameworks usados nesse projeto foram: SwiftUI.
 
