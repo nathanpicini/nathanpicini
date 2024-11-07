@@ -29,6 +29,7 @@ Stax – Simplificando as suas finanças							          							(Mar 2024 - Abr 
 	          	              
 ●	Stax é um aplicativo de finanças desenvolvido com o objetivo de ajudar microempreendedores individuais (MEI’s) .Os frameworks usados nesse projeto foram: SwitfUI. 
 
+
 Flip Map									              	          						(Mai 2024 - Jun 2024)
 
 ●	Flip Map foi um aplicativo desenvolvido de forma individual, onde tivemos a liberdade de escolher a temática para o nosso app. Pensando nisso, eu resolvi fazer um app voltado para o skate, haja visto que é um esporte que eu pratico. Flip Map mostra aos usuários diversas pistas, praças e picos para praticar o esporte.
