@@ -19,6 +19,7 @@
 
 ●	Recaps é um aplicativo desenvolvido para o envio de mensagens ao futuro, através de cartas e áudios. Estimulando o sentimento de nostalgia ao reviver memórias do passado, lançadas através de cápsulas do tempo. 
 ![Uploading 383706813-bc1aefba-64e7-48b4-87c9-a6ee465e5932.jpeg…]()
+<a href="https://apps.apple.com/us/app/recaps-memories-unlocked/id6737288027">Link AppStore</a>
 
 
 <b>FLIP MAP</b>									              	          						<b>(MAI 2024 - JUN 2024)</b>
