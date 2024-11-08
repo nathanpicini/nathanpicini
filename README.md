@@ -1,9 +1,9 @@
 ## Hi everyone, my name is Nathan Picini 👋
 
-- 🧑‍💻 I’m currently working on IOS development.
-- 💡 As well as programming, I've also had experience in design UI/UX and as a product owner.
-- 🎓 I'm also studying advertising and publicity, where I'm gaining knowledge about communication and marketing.
-- 🌱 My hobbies are sports, video games, music and family.
+- 🧑‍💻 Atualmente estou trabalhando como desenvolvedor IOS
+- 💡 Além de programar, eu também tive experiência com design UI/UX, e como pessoa de produto (PO).
+- 🎓 Sou estudante de graduação no curso de publicidade e propaganda, onde estou adquirindo conhecimento sobre comunicação e marketing.
+- 🌱 Meus hobbies são esportes, viagens, videogames, música e família.
 
 ##
 
