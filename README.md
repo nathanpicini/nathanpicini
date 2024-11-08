@@ -18,7 +18,10 @@
 <b>RECAPS: MEMORIES UNLOCKED</b>								          						<b>(JUN 2024 – NOV 2024)</b>
 
 ●	Recaps é um aplicativo desenvolvido para o envio de mensagens ao futuro, através de cartas e áudios. Estimulando o sentimento de nostalgia ao reviver memórias do passado, lançadas através de cápsulas do tempo. 
-![Uploading 383706813-bc1aefba-64e7-48b4-87c9-a6ee465e5932.jpeg…]()
+
+<img src="https://github.com/user-attachments/assets/dca8b196-503c-49f2-9c19-634b9e7901b6" width="300">
+
+
 <a href="https://apps.apple.com/us/app/recaps-memories-unlocked/id6737288027">Link AppStore</a>
 
 
@@ -35,6 +38,8 @@
 <b>MAR DE CÁLCULOS</b> 									         							<b>(DEZ 2023 - FEV 2024)</b>
 
 ●	Mar de Cálculos é um aplicativo desenvolvido para o gênero “serious game” voltado para o ensino de matemática, com uma temática voltada para a época dos piratas. Os frameworks usados nesse projeto foram: SwitfUI, SpriteKit.
+
+<img src="https://github.com/user-attachments/assets/42f3579c-b3a9-427f-8b7d-797327d56e7b" width="300">
 
 
 <b>TABSY - APRENDA TABLATURA</b>                                                                                                                        <b>(AGO 2023 - OUT 2023)</b>
