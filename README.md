@@ -48,7 +48,7 @@
 
 <b>MAR DE CÁLCULOS</b> 									         							<b>(DEZ 2023 - FEV 2024)</b>
 
-●	Mar de Cálculos é um aplicativo desenvolvido para o gênero “serious game”, em outras palavras, jogos sérios. O app tem como intuito instruir crianças e jovens ao ensino básico da matemática, e possui uma temática voltada para a época dos piratas. Os frameworks usados nesse projeto foram: SceneKit, SpriteKit.
+●	Mar de Cálculos é um aplicativo desenvolvido para o gênero “serious game”, em outras palavras, jogos sérios. A idéia do app é instruir crianças e jovens ao ensino básico da matemática, e possui uma temática voltada para a época dos piratas. Os frameworks usados nesse projeto foram: SceneKit, SpriteKit.
 
 <b>COPYRIGHTS©️</b>: Henrique Higa, Igor Bragança, Jennifer Pires, Maria Vitória Santana, Nathan Picini, Patrick Inocêncio
 
@@ -57,7 +57,7 @@
 
 <b>TABSY - APRENDA TABLATURA</b>                                                                                                                        <b>(AGO 2023 - OUT 2023)</b>
 
-●	Tabsy é um aplicativo desenvolvido com o intuito de ensinar o usuário a ler tablaturas, e acompanha métodos de ensino para facilitar o aprendizado, com o foco em pessoas com transtornos cognitivos e com dificuldade de aprendizado, trazendo coonsigo uma abordagem amigável e intuitiva. Os frameworks usados nesse projeto foram: SwiftUI.
+●	Tabsy é um aplicativo desenvolvido com o intuito de ensinar o usuário a ler tablaturas. Acompanha métodos de ensino para facilitar o aprendizado, com o foco em pessoas com transtornos cognitivos e com dificuldade de aprendizado, trazendo consigo uma abordagem amigável e intuitiva. Os frameworks usados nesse projeto foram: SwiftUI.
 
 <b>COPYRIGHTS©️</b>: André Enes, Beatriz Andreucci, Gabriel Vincentin, Nathan Picini, Sofia Lee
 
