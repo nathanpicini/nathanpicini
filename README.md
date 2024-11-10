@@ -23,7 +23,7 @@
 
 <img src="https://github.com/user-attachments/assets/dca8b196-503c-49f2-9c19-634b9e7901b6" width="300">
 
-<a href="https://apps.apple.com/us/app/recaps-memories-unlocked/id6737288027">Link AppStore</a>
+<a href="https://apps.apple.com/us/app/recaps-memories-unlocked/id6737288027">Link AppStore</a> <br><br>
 
 
 <b>FLIP MAP</b>									              	          						<b>(MAI 2024 - JUN 2024)</b>
