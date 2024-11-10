@@ -17,7 +17,7 @@
 
 <b>RECAPS: MEMORIES UNLOCKED</b>								          						<b>(JUN 2024 – NOV 2024)</b>
 
-●	Recaps é um aplicativo desenvolvido para o envio de mensagens ao futuro, através de cartas e áudios. Estimulando o sentimento de nostalgia ao reviver memórias do passado, lançadas através de cápsulas do tempo. 
+●	Recaps é um aplicativo desenvolvido para o envio de mensagens ao futuro, através de cartas e áudios. Estimulando o sentimento de nostalgia ao reviver memórias do passado, lançadas através de cápsulas do tempo. Os frameworks usados nesse projeto foram: SwiftUI.
 
 <img src="https://github.com/user-attachments/assets/dca8b196-503c-49f2-9c19-634b9e7901b6" width="300">
 
