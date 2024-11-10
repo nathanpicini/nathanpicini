@@ -32,7 +32,7 @@
 
 <b>COPYRIGHTS©️</b>: Nathan Picini
 
-<img src="https://github.com/user-attachments/files/17690102/FlipMap.pdf" width="300">
+<img src="https://github.com/user-attachments/files/17690102/FlipMap.pdf" width="300"> <br><br>
 
 
 <b>STAX - SIMPLIFICANDO AS SUAS FINANÇAS</b>							          						<b>(MAR 2024 - ABR 2024)</b>
@@ -43,7 +43,7 @@
 
 <img src="https://github.com/user-attachments/assets/1bbed5b8-8856-4537-b716-8b2e34bfe858" width="300">
 
-<a href=https://apps.apple.com/br/app/stax/id6481496713>Link AppStore</a>
+<a href=https://apps.apple.com/br/app/stax/id6481496713>Link AppStore</a> <br><br>
 
 
 <b>MAR DE CÁLCULOS</b> 									         							<b>(DEZ 2023 - FEV 2024)</b>
@@ -52,7 +52,7 @@
 
 <b>COPYRIGHTS©️</b>: Henrique Higa, Igor Bragança, Jennifer Pires, Maria Vitória Santana, Nathan Picini, Patrick Inocêncio
 
-<img src="https://github.com/user-attachments/assets/42f3579c-b3a9-427f-8b7d-797327d56e7b" width="300">
+<img src="https://github.com/user-attachments/assets/42f3579c-b3a9-427f-8b7d-797327d56e7b" width="300"> <br><br>
 
 
 <b>TABSY - APRENDA TABLATURA</b>                                                                                                                        <b>(AGO 2023 - OUT 2023)</b>
