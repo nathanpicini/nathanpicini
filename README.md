@@ -17,7 +17,9 @@
 
 <b>RECAPS: MEMORIES UNLOCKED</b>								          						<b>(JUN 2024 – NOV 2024)</b>
 
-●	Recaps é um aplicativo desenvolvido para o envio de mensagens ao futuro, através de cartas e áudios. Estimulando o sentimento de nostalgia ao reviver memórias do passado, lançadas através de cápsulas do tempo. Os frameworks usados nesse projeto foram: SwiftUI.
+●	Recaps é um aplicativo desenvolvido para o envio de mensagens ao futuro, através de cartas e áudios. Estimulando o sentimento de nostalgia ao reviver memórias do passado, lançadas através de cápsulas do tempo. Os frameworks usados nesse projeto foram: SwiftUI. 
+
+<b>COPYRIGHTS©️</b>: Gabriel Fonseca, Maria Vitória Santana, Nathan Picini
 
 <img src="https://github.com/user-attachments/assets/dca8b196-503c-49f2-9c19-634b9e7901b6" width="300">
 
@@ -28,12 +30,16 @@
 
 ●	Flip Map é um aplicativo desenvolvido de forma individual, onde eu tive a liberdade de escolher a temática do app. Pensando nisso, eu resolvi fazer um app voltado para o skate, haja visto que é um esporte que eu pratico. Flip Map mostra aos usuários diversas pistas, praças e picos para praticar o esporte. Os frameworks usados nesse projeto foram: UIKit, SwiftUI.
 
+<b>COPYRIGHTS©️</b>: Nathan Picini
+
 <img src="https://github.com/user-attachments/files/17690102/FlipMap.pdf" width="300">
 
 
 <b>STAX - SIMPLIFICANDO AS SUAS FINANÇAS</b>							          						<b>(MAR 2024 - ABR 2024)</b>
 	          	              
 ●	Stax é um aplicativo de finanças é um aplicativo desenvolvido com o objetivo de ajudar microempreendedores individuais (MEI’s). Os frameworks usados nesse projeto foram: SwitfUI. 
+
+<b>COPYRIGHTS©️</b>: Jennifer Pires, Júlia Luz, Maria Vitória Santana, Nathan Picini, Vinicius Serpa
 
 <img src="https://github.com/user-attachments/assets/1bbed5b8-8856-4537-b716-8b2e34bfe858" width="300">
 
@@ -44,12 +50,16 @@
 
 ●	Mar de Cálculos é um aplicativo desenvolvido para o gênero “serious game” voltado para o ensino de matemática, com uma temática voltada para a época dos piratas. Os frameworks usados nesse projeto foram: SwitfUI, SpriteKit.
 
+<b>COPYRIGHTS©️</b>: Henrique Higa, Igor Bragança, Jennifer Pires, Maria Vitória Santana, Nathan Picini, Patrick Inocêncio
+
 <img src="https://github.com/user-attachments/assets/42f3579c-b3a9-427f-8b7d-797327d56e7b" width="300">
 
 
 <b>TABSY - APRENDA TABLATURA</b>                                                                                                                        <b>(AGO 2023 - OUT 2023)</b>
 
 ●	Tabsy é um aplicativo desenvolvido com o intuito de ensinar o usuário a ler tablaturas, e acompanha métodos de ensino para facilitar o aprendizado, com o foco em pessoas com transtornos cognitivos e com dificuldade do aprendizado. Os frameworks usados nesse projeto foram: SwiftUI.
+
+<b>COPYRIGHTS©️</b>: André Enes, Beatriz Andreucci, Gabriel Vincentin, Nathan Picini, Sofia Lee
 
 <img src= "https://github.com/user-attachments/assets/249c4a60-7d4c-4bde-aedd-ab800ab2f98b" width="300">
 
