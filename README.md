@@ -37,7 +37,8 @@
 
 <img src="https://github.com/user-attachments/assets/ae38998f-bccd-405c-a8eb-dd85ff2e2f4b" width="300">
 
-<a href="https://apps.apple.com/br/app/stax/id6481496713">Link AppStore</a>
+<a href="https://github.com/user-attachments/assets/1bbed5b8-8856-4537-b716-8b2e34bfe858">Link 
+AppStore</a>
 
 
 <b>MAR DE CÁLCULOS</b> 									         							<b>(DEZ 2023 - FEV 2024)</b>
