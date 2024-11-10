@@ -21,7 +21,6 @@
 
 <img src="https://github.com/user-attachments/assets/dca8b196-503c-49f2-9c19-634b9e7901b6" width="300">
 
-
 <a href="https://apps.apple.com/us/app/recaps-memories-unlocked/id6737288027">Link AppStore</a>
 
 
@@ -46,6 +45,10 @@
 
 ●	Tabsy é um aplicativo desenvolvido com o intuito de ensinar o usuário a ler tablaturas, e acompanha métodos de ensino para facilitar o aprendizado, com o foco em pessoas com transtornos cognitivos e com dificuldade do aprendizado. Os frameworks usados nesse projeto foram: SwiftUI.
 
+
+<img src= "https://github.com/user-attachments/assets/249c4a60-7d4c-4bde-aedd-ab800ab2f98b" width="300">
+
+<a href= "https://apps.apple.com/br/app/tabsy-aprenda-tablatura/id6469644351">Link AppStore</a>
 
 
 
