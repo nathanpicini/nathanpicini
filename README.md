@@ -17,7 +17,7 @@
 
 <b>RECAPS: MEMORIES UNLOCKED</b>								          						<b>(JUN 2024 – NOV 2024)</b>
 
-●	Recaps é um aplicativo desenvolvido para o envio de mensagens ao futuro, através de cartas e áudios. Estimulando o sentimento de nostalgia ao reviver memórias do passado, lançadas através de cápsulas do tempo. Os frameworks usados nesse projeto foram: SwiftUI. 
+●	Recaps é um aplicativo desenvolvido para o envio de mensagens ao futuro, através de cartas e áudios. Estimulando o sentimento de nostalgia ao reviver memórias do passado, lançadas através de cápsulas do tempo. Os frameworks usados nesse projeto foram: SwiftUI, AVFoundation, Core Data.
 
 <b>COPYRIGHTS©️</b>: Gabriel Fonseca, Maria Vitória Santana, Nathan Picini
 
@@ -28,7 +28,7 @@
 
 <b>FLIP MAP</b>									              	          						<b>(MAI 2024 - JUN 2024)</b>
 
-●	Flip Map é um aplicativo desenvolvido de forma individual, onde eu tive a liberdade de escolher a temática do app. Pensando nisso, eu resolvi fazer um app voltado para o skate, haja visto que é um esporte que eu pratico. Flip Map mostra aos usuários diversas pistas, praças e picos para praticar o esporte. Os frameworks usados nesse projeto foram: UIKit.
+●	Flip Map é um aplicativo desenvolvido de forma individual, onde eu tive a liberdade de escolher a temática do app. Pensando nisso, eu resolvi fazer um app voltado para o skate, haja visto que é um esporte que eu pratico. Flip Map mostra aos usuários diversas pistas, praças e picos para praticar o esporte. Os frameworks usados nesse projeto foram: UIKit, MapKit.
 
 <b>COPYRIGHTS©️</b>: Nathan Picini
 
@@ -37,7 +37,7 @@
 
 <b>STAX - SIMPLIFICANDO AS SUAS FINANÇAS</b>							          						<b>(MAR 2024 - ABR 2024)</b>
 	          	              
-●	Stax é um aplicativo de finanças é um aplicativo desenvolvido com o objetivo de ajudar microempreendedores individuais (MEI’s). Os frameworks usados nesse projeto foram: SwitfUI. 
+●	Stax é um aplicativo de finanças é um aplicativo desenvolvido com o objetivo de ajudar microempreendedores individuais (MEI’s). Os frameworks usados nesse projeto foram: SwitfUI, Core Data. 
 
 <b>COPYRIGHTS©️</b>: Jennifer Pires, Júlia Luz, Maria Vitória Santana, Nathan Picini, Vinicius Serpa
 
@@ -48,7 +48,7 @@
 
 <b>MAR DE CÁLCULOS</b> 									         							<b>(DEZ 2023 - FEV 2024)</b>
 
-●	Mar de Cálculos é um aplicativo desenvolvido para o gênero “serious game” voltado para o ensino de matemática, com uma temática voltada para a época dos piratas. Os frameworks usados nesse projeto foram: SwitfUI, SpriteKit.
+●	Mar de Cálculos é um aplicativo desenvolvido para o gênero “serious game” voltado para o ensino de matemática, com uma temática voltada para a época dos piratas. Os frameworks usados nesse projeto foram: SceneKit, SpriteKit.
 
 <b>COPYRIGHTS©️</b>: Henrique Higa, Igor Bragança, Jennifer Pires, Maria Vitória Santana, Nathan Picini, Patrick Inocêncio
 
