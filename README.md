@@ -47,7 +47,6 @@
 <img src="https://github.com/user-attachments/assets/42f3579c-b3a9-427f-8b7d-797327d56e7b" width="300">
 
 
-
 <b>TABSY - APRENDA TABLATURA</b>                                                                                                                        <b>(AGO 2023 - OUT 2023)</b>
 
 ●	Tabsy é um aplicativo desenvolvido com o intuito de ensinar o usuário a ler tablaturas, e acompanha métodos de ensino para facilitar o aprendizado, com o foco em pessoas com transtornos cognitivos e com dificuldade do aprendizado. Os frameworks usados nesse projeto foram: SwiftUI.
