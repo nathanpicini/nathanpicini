@@ -26,7 +26,7 @@
 
 <b>FLIP MAP</b>									              	          						<b>(MAI 2024 - JUN 2024)</b>
 
-●	Flip Map é um aplicativo desenvolvido de forma individual, onde tivemos a liberdade de escolher a temática para o nosso app. Pensando nisso, eu resolvi fazer um app voltado para o skate, haja visto que é um esporte que eu pratico. Flip Map mostra aos usuários diversas pistas, praças e picos para praticar o esporte. Os frameworks usados nesse projeto foram: UIKit, SwiftUI.
+●	Flip Map é um aplicativo desenvolvido de forma individual, onde eu tive a liberdade de escolher a temática do app. Pensando nisso, eu resolvi fazer um app voltado para o skate, haja visto que é um esporte que eu pratico. Flip Map mostra aos usuários diversas pistas, praças e picos para praticar o esporte. Os frameworks usados nesse projeto foram: UIKit, SwiftUI.
 
 <img src="https://github.com/user-attachments/files/17690102/FlipMap.pdf" width="300">
 
