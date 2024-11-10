@@ -53,7 +53,7 @@
 
 <img src= "https://github.com/user-attachments/assets/249c4a60-7d4c-4bde-aedd-ab800ab2f98b" width="300">
 
-<a href= "https://apps.apple.com/br/app/tabsy-aprenda-tablatura/id6469644351">Link AppStore</a>
+<a href= "https://apps.apple.com/br/app/tabsy-aprenda-tablatura/id6469644351">Link AppStore</a> 
 
 
 
